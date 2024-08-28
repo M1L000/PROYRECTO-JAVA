@@ -11,6 +11,7 @@ public class index{
     private static int opcion;
     private static Postulante postulante1;
     static HashMap<String, Postulante> MapaPostulantes;
+    
     public static void main(String[] args){
 
         MapaPostulantes = new HashMap<>();
